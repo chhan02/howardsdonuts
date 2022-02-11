@@ -58,9 +58,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "Howard's Donuts & Deli",
+        "meta_descr": "Howard's Donuts & Deli in San Bernardino, CA",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-164665940-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-164665940-1');\n</script>\n",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/logo-redesign.svg"
@@ -565,7 +565,8 @@
         "title": "Menu",
         "order": 1,
         "meta_descr": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/logo-redesign.svg"
+        "meta_image": "@PROJECT_PATH@/assets/images/logo-redesign.svg",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-164665940-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-164665940-1');\n</script>\n"
       },
       "components": [
         {
